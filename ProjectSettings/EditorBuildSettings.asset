@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorkoutScene.unity
     guid: e0fca7241bca447bf8f0a677c14ed20d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StartScene.unity
     guid: 533ccf88bcfd04ac6ac946a654b26335
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TutorialScene.unity
     guid: df287228446e849878cdaeb04e26f853
   m_configObjects:
