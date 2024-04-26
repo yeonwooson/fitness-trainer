@@ -15,13 +15,13 @@ MonoBehaviour:
   targetDeviceTypes: 020000000300000004000000
   allowOptional3DofHeadTracking: 0
   handTrackingSupport: 1
-  handTrackingFrequency: 1
+  handTrackingFrequency: 0
   handTrackingVersion: 2
   anchorSupport: 0
   sharedAnchorSupport: 0
   renderModelSupport: 0
   trackedKeyboardSupport: 0
-  bodyTrackingSupport: 0
+  bodyTrackingSupport: 1
   faceTrackingSupport: 0
   eyeTrackingSupport: 0
   virtualKeyboardSupport: 0
@@ -40,5 +40,5 @@ MonoBehaviour:
   systemSplashScreen: {fileID: 0}
   systemSplashScreenType: 0
   _systemLoadingScreenBackground: 0
-  ovrPluginMd5Win64: e8cfe66d40bc858ac6a51dd265d3b2f7cb4eec9cfb7233d65da101419eab4649
-  ovrPluginMd5Android: c7bb9a379e186c4b2726b69bbb7d3ace768adda6b7384f194bd249a4d283f6a1
+  ovrPluginMd5Win64: e8cfe66d40bc858ac6a51dd265d3b2f7e2be660c3c736e1ed239698a6b8f6c67
+  ovrPluginMd5Android: c7bb9a379e186c4b2726b69bbb7d3ace1eedd37a6929f67f06e272807b8e6628
