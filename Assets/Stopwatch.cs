@@ -6,7 +6,7 @@ using System;
 
 public class Stopwatch : MonoBehaviour
 {
-    private bool _timerActive;
+    private bool _timerActive = false;
     private float _currentTime;
     [SerializeField] private TMP_Text _text;
 
